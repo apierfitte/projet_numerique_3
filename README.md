@@ -1,2 +1,5 @@
 # projet_numerique_3
-Projet numérique  
+
+Troisième projet numérique : probabilités.
+
+*Marius MOULLE* et *Auguste PIERFITTE*
